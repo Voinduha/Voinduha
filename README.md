@@ -1,4 +1,4 @@
-- 👋 Hi, I’m QA Automation engineer @Voinduha 
+- 👋 Hi, I’m QA Auto/Manual engineer @Voinduha 
 - 👀 I’m interested in QA Automatition Tests and Manual Testing 
 - 🌱 I’m currently learning Selenium\Selenide\JAVA\Junit5\Gradle_projects\IDEA
 - 💞️ I’m looking to collaborate on Real Projects
