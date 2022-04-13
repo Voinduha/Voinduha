@@ -7,7 +7,7 @@
 Voinduha/Voinduha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Voinduha github stats](https://github-readme-stats.vercel.app/api?username=voinduha&show_icons=true&theme=merko)
+![Voinduha github stats](https://github-readme-stats.vercel.app/api?username=voinduha&show_icons=true&theme=tokyonight)
 
 ## Тестирование UI
 :link: Рабочий проект: <a target="_blank" href="https://www.mos.ru">Новый Личный Кабинет на mos.ru</a></br></br>
