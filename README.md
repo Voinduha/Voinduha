@@ -16,3 +16,4 @@ You can click the Preview link to take a look at your changes.
 
 :heavy_check_mark: Реализованы UI автотесты на проверку основной функциональности личного кабинета пользователя, а также введен в эксплуатацию проект по мониторингу портала mos.ru</br></br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
