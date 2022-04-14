@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 ## Тестирование UI
 :link: Рабочий проект: <a target="_blank" href="https://www.mos.ru">Новый Личный Кабинет на mos.ru</a></br></br>
 
-<img src="icons/Java.svg" width="60" height="60"> <img src="icons/Gradle.svg" width="60" height="60"> <img src="icons/Idea.svg" width="60" height="60"> <img src="icons/Selenide.svg" width="60" height="60"> <img src="icons/Github.svg" width="60" height="60">
+<img src="icons/Java.svg" width="60" height="60"> <img src="icons/Gradle.svg" width="60" height="60"> <img src="icons/Idea.svg" width="60" height="60"> <img src="icons/Selenide.svg" width="60" height="60"> <img src="icons/Github.svg" width="60" height="60"> <img src="icons/Allure.svg" width="60" height="60">
 
 :heavy_check_mark: Реализованы UI автотесты на проверку основной функциональности личного кабинета пользователя, а также введен в эксплуатацию проект по мониторингу портала mos.ru</br></br>
 
