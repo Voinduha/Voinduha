@@ -2,7 +2,7 @@
   <b>🇬🇧 English</b> · <a href="README.ru.md">🇷🇺 Русский</a>
 </p>
 
-<h1 align="center">Hi, I'm Daniil 👋</h1>
+<h1 align="center">Hi, I'm Daniel 👋</h1>
 <h3 align="center">Full Stack QA Engineer — manual testing and test automation</h3>
 
 <p align="center">
