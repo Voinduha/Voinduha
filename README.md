@@ -1,5 +1,9 @@
-<h1 align="center">Привет, я Даниил 👋</h1>
-<h3 align="center">Full Stack QA Engineer — ручное тестирование и автоматизация</h3>
+<p align="center">
+  <b>🇬🇧 English</b> · <a href="README.ru.md">🇷🇺 Русский</a>
+</p>
+
+<h1 align="center">Hi, I'm Daniil 👋</h1>
+<h3 align="center">Full Stack QA Engineer — manual testing and test automation</h3>
 
 <p align="center">
   <a href="mailto:danvu@ya.ru"><img src="https://img.shields.io/badge/Email-danvu%40ya.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -8,15 +12,15 @@
 
 ---
 
-## 🧑‍💻 О себе
+## 🧑‍💻 About me
 
-- 🔍 Тестирую веб-приложения от требований до автотестов: тест-дизайн, ручные проверки, UI и API автоматизация
-- 🏛️ Работаю с порталом **mos.ru**: автотесты основных сценариев личного кабинета, мониторинг портала
-- 📋 Веду тест-кейсы в **Allure TestOps** и связываю их с автотестами (Jira → TestOps → код)
-- 🤖 Внедряю AI-агентов (**Claude Code**, Cursor) в процесс QA: генерация автотестов по тест-кейсам, разбор падений
-- 🚀 Запускаю тесты в CI на **Jenkins** с отчётами в Allure
+- 🏛️ Testing the **mos.ru** portal
+- 🔍 Covering the full path from requirements to automated tests: test design, manual checks, UI and API automation
+- 📋 Managing test cases in **Allure TestOps** and linking them to autotests (Jira → TestOps → code)
+- 🤖 Bringing AI agents (**Claude Code**, Cursor) into the QA process: generating autotests from test cases, triaging failures
+- 🚀 Running tests in CI on **Jenkins** with Allure reports
 
-## 🛠 Стек
+## 🛠 Tech stack
 
 <p>
   <img src="icons/Java.svg" width="50" height="50" title="Java" alt="Java">&nbsp;
@@ -30,16 +34,16 @@
   <img src="icons/Github.svg" width="50" height="50" title="GitHub" alt="GitHub">
 </p>
 
-| Направление | Инструменты |
+| Area | Tools |
 |---|---|
-| UI автотесты | Java, Selenide, JUnit 5 |
-| API автотесты | REST Assured |
-| Сборка и CI | Gradle, Jenkins |
-| Отчёты и тест-менеджмент | Allure Report, Allure TestOps |
-| Трекинг и документация | Jira, Confluence |
-| AI в тестировании | Claude Code, Cursor |
+| UI automation | Java, Selenide, JUnit 5 |
+| API automation | REST Assured |
+| Build and CI | Gradle, Jenkins |
+| Reporting and test management | Allure Report, Allure TestOps |
+| Tracking and docs | Jira, Confluence |
+| AI in testing | Claude Code, Cursor |
 
-## 📊 Статистика
+## 📊 GitHub stats
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Voinduha&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats">
